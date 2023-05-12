@@ -1,0 +1,163 @@
+{
+  "@@locale": "ru",
+  "cash_reserve": "Денежный резерв",
+  "@cash_reserve":{
+    "description": "Денежный резерв"
+  },
+
+  "hello": "Здравствуйте, ",
+  "@hello": {
+    "description": "Здравствуйте"
+  },
+
+  "buy": "Купить",
+  "@buy": {
+    "description": "Купить"
+  },
+
+  "sell": "Продать",
+  "@sell": {
+    "description": "Продать"
+  },
+
+  "balance_gold": "Баланс золота",
+  "@balance_gold": {
+    "description": "Баланс золота"
+  },
+
+  "today_price": "Сегодня",
+  "@today_price": {
+    "description": "Сегодня"
+  },
+
+  "gram": "гр",
+  "@gram": {
+    "description": " гр"
+  },
+
+  "price_chart": "График цен на золото:",
+  "@price_chart": {
+    "description": "График цен на золото"
+  },
+
+  "sale": "Продажа",
+  "@sale": {
+    "description": "Продажа"
+  },
+
+  "purchase": "Покупка",
+  "@purchase": {
+    "description": "Покупка"
+  },
+
+  "price_per_gram": "Цена золота за грамм:",
+  "@price_per_gram": {
+    "description": "Цена золота за грамм"
+  },
+
+  "monetary_reserve": "Покупка золота осуществляется из Денежного резерва:",
+  "@monetary_reserve": {
+    "description": "Покупка золота осуществляется из Денежного резерва:"
+  },
+
+  "settings": "Настройки",
+  "@settings": {
+    "description": "Настройки"
+  },
+
+  "app_lang": "Язык приложения",
+  "@app_lang": {
+    "description": "Язык приложения"
+  },
+
+  "push_notifications": "Push-уведомления",
+  "@push_notifications": {
+    "description": "Push-уведомления"
+  },
+
+  "biometry": "Вход по биометрическим данным",
+  "@biometry": {
+    "description": "Вход по биометрическим данным"
+  },
+
+  "support": "Поддержка",
+  "@support": {
+    "description": "Поддержка"
+  },
+
+  "subscription": "Купите подписку на скрининг",
+  "@subscription": {
+    "description": "Купите подписку на скрининг"
+  },
+
+  "sign_out": "Выйти с аккаунта",
+  "@sign_out": {
+    "description": "Выйти с аккаунта"
+  },
+
+  "accept": "Принять",
+  "@accept": {
+    "description": "Принять"
+  },
+
+  "choose_lang": "Выберите язык",
+  "@choose_lang": {
+    "description": "Выберите язык"
+  },
+
+  "money": "Деньги",
+  "@money": {
+    "description": "Деньги"
+  },
+
+  "gold": "Золото",
+  "@gold": {
+    "description": "Золото"
+  },
+
+  "history": "История",
+  "@history": {
+    "description": "История"
+  },
+
+  "cancel": "Отмена",
+  "@cancel": {
+    "description": "Отмена"
+  },
+
+  "forgot_pass": "Забыли пароль?",
+  "@forgot_pass": {
+    "description": "Забыли пароль?"
+  },
+
+  "login": "Логин",
+  "@login": {
+    "description": "Логин"
+  },
+
+  "password": "Пароль",
+  "@password": {
+    "description": "Пароль"
+  },
+
+  "unregistered_number": "Данный номер не зарегистрирован!",
+  "@unregistered_number": {
+    "description": "Данный номер не зарегистрирован!"
+  },
+
+  "sign_in": "Войти",
+  "@sign_in": {
+    "description": "Войти"
+  },
+
+  "not_registered": "Вы еще не зарегистрированы?",
+  "@not_registered": {
+    "description": "Вы еще не зарегистрированы?"
+  },
+
+  "stock": "Акции",
+  "@stock": {
+    "description": "Акции"
+  }
+
+}

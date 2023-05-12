@@ -1,0 +1,38 @@
+{
+  "language": "English",
+  "cash_reserve": "Cash reserve",
+  "hello": "Hello, ",
+  "buy": "Buy",
+  "sell": "Sell",
+  "balance_gold": "Gold balance:",
+  "today_price": "Today",
+  "gram": " g",
+  "price_chart": "Gold price chart:",
+  "sale": "Sale",
+  "purchase": "Purchase",
+  "price_per_gram": "Gold price per gram:",
+  "monetary_reserve": "The purchase of gold is carried out from the Monetary reserve",
+  "settings": "Settings",
+  "app_lang": "Application language",
+  "push_notifications": "Push notifications",
+  "biometry": "Biometric login",
+  "support": "Support",
+  "subscription": "Buy a screening subscription",
+  "sign_out": "Sign out",
+  "accept": "Accept",
+  "choose_lang": "Choose language",
+  "money": "Money",
+  "gold": "Gold",
+  "history": "History",
+  "cancel": "Cancel",
+  "forgot_pass": "Forgot password?",
+  "login": "Login",
+  "password": "Password",
+  "unregistered_number": "This number is not registered!",
+  "sign_in": "Sign in",
+  "not_registered": "You are not registered yet?",
+  "stock": "Stock"
+
+
+
+}
